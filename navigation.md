@@ -1,0 +1,3 @@
+# MDwiki
+
+[gimmick:theme](cosmo)
