@@ -2,5 +2,4 @@
 
 ## Contents
 
-note:MySQLプロシージャのループ記述方法について
-http://tmjpn.github.io/#!20241206141437.md
+note: [MySQLプロシージャのループ記述方法について](http://tmjpn.github.io/#!20241206141437.md)
