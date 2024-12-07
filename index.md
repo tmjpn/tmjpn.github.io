@@ -1,5 +1,3 @@
-# <i class="fas fa-home"></i> Home
+# tmjpn.github.io
 
-## Contents
-
-note: [MySQLプロシージャのカーソル処理が途中で打ち切られる問題と解決案](http://tmjpn.github.io/#!20241206141437.md)
+[include](profile.md)
