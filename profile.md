@@ -1,6 +1,6 @@
 <style>#md-content h2 { margin-top: auto; border-top:0; } div.md-text { margin-left: 10px !important; }</style>
 
-## プロファイル
+## プロフィール
 
 <i class="fas fa-map-marker-alt fa-fw"></i> Tokyo, JAPAN
 <i class="fas fa-building fa-fw"></i> SES Engineer
