@@ -1,0 +1,3 @@
+# Home
+
+[gimmick:theme](cosmo)
