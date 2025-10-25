@@ -10,5 +10,6 @@
 - [Docker Desktopインストール手順](%7F/20250108170517.md)
 - [Djangoアプリ開発手順書](%7F/20250110170550.md)
 - [Jekyll ビルドで「Liquid syntax error (Unknown tag 'url')」が発生した際の対処方法](%7F/20250119184259.md)
+- [Wiki.jsセットアップ手順](%7F/20251025140457.md)
 
 [gimmick:theme](cosmo)
